@@ -47,7 +47,9 @@ This system enables users to organize their tasks, receive timely reminders, and
    git clone https://github.com/Sugavanesh17/Task_Timer_Remainder.git
 
 2. **MYSQL JAR FILE**
+
     Add your mysql jar file 
+
 3. **Run the App**
    
      Run the App.java
