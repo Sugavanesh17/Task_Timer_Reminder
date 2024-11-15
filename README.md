@@ -56,7 +56,7 @@ This system enables users to organize their tasks, receive timely reminders, and
 
 4. **Project Structure**
     ```bash
-    TaskTimerReminderSystem/
+    TaskTimerReminderProject/
     ├── src/
     │   ├── database 
     │   │   └── DatabaseConnection.java
