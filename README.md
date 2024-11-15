@@ -45,3 +45,34 @@ This system enables users to organize their tasks, receive timely reminders, and
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Sugavanesh17/Task_Timer_Remainder.git
+
+2. **Run the App**
+   Run the App.java
+
+3. **Project Structure**
+    ```bash
+    TaskTimerReminderSystem/
+    ├── src/
+    │   ├── database 
+    │   │   └── DatabaseConnection.java
+    │   │   └── TaskDatabaseService.java 
+    │   ├── interfaces 
+    │   │   └── TaskManager.java
+    │   │   └── ReminderManager.java
+    │   ├── models 
+    │   │   └── User.java
+    │   │   └── Task.java
+    │   │   └── Reminder.java
+    │   │   └── Timer.java
+    │   ├── services 
+    │   │   └── TaskService.java
+    │   │   └── ReminderService.java
+    │   ├── utils 
+    │   │   └── FileHandler.java
+    │   │   └── TaskTimer.java
+    │   └── com.taskmanager
+    │       └── TaskManagerApp.java
+    └── lib/
+        └── mysql-connector-java.jar
+
+    
