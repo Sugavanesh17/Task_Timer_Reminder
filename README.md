@@ -44,4 +44,4 @@ This system enables users to organize their tasks, receive timely reminders, and
 ### **Steps**
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/task-timer-reminder.git
+   git clone https://github.com/Sugavanesh17/Task_Timer_Remainder.git
